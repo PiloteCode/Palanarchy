@@ -1,0 +1,92 @@
+{
+  "version": 4.0,
+  "the_new_welcome_screen": true,
+  "_social-splash-screen": true,
+  "aristois__version": 525,
+  "autoEatItemList": [
+    {
+      "translationKey": "golden_apple"
+    },
+    {
+      "translationKey": "enchanted_golden_apple"
+    }
+  ],
+  "ghosthandBlockList": [
+    {
+      "translationKey": "chest"
+    },
+    {
+      "translationKey": "ender_chest"
+    },
+    {
+      "translationKey": "trapped_chest"
+    },
+    {
+      "translationKey": "lever"
+    }
+  ],
+  "xrayBlockList": [
+    {
+      "translationKey": "gold_ore"
+    },
+    {
+      "translationKey": "iron_ore"
+    },
+    {
+      "translationKey": "coal_ore"
+    },
+    {
+      "translationKey": "redstone_ore"
+    },
+    {
+      "translationKey": "emerald_ore"
+    },
+    {
+      "translationKey": "diamond_ore"
+    },
+    {
+      "translationKey": "lapis_ore"
+    },
+    {
+      "translationKey": "ancient_debris"
+    },
+    {
+      "translationKey": "nether_gold_ore"
+    },
+    {
+      "translationKey": "lapis_block"
+    },
+    {
+      "translationKey": "gold_block"
+    },
+    {
+      "translationKey": "iron_block"
+    },
+    {
+      "translationKey": "diamond_block"
+    },
+    {
+      "translationKey": "emerald_block"
+    },
+    {
+      "translationKey": "netherite_block"
+    },
+    {
+      "translationKey": "obsidian"
+    },
+    {
+      "translationKey": "spawner"
+    },
+    {
+      "translationKey": "end_portal_frame"
+    }
+  ],
+  "murderMysteriesWeaponList": [
+    {
+      "translationKey": "diamond_sword"
+    },
+    {
+      "translationKey": "iron_sword"
+    }
+  ]
+}
